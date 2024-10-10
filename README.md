@@ -1,9 +1,9 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm Ahmed Sameer</h1>
+<h1 align="center">Hi 👋, I'm Farea AL-Dhelaa</h1>
 
 <h3 align="center">A passionate Full Stack developer from Yemen</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sameer-homishan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sameer-homishan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="farea-al-dhelaa" /> </p>
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  style="width:300px !important; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -11,17 +11,17 @@
 
 - 💬 Ask me about **Android , Flutter ,**
 
-- 📫 How to reach me **ahmedsameer.ye@gmail.com**
+- 📫 How to reach me **farea.al.dhelaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://twitter.com/ah_sm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ah_sm9" height="30" width="40" /></a>
+  <a href="https://twitter.com/farea_al_dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farea_al_dhelaa" height="30" width="40" /></a>
 
-  <a href="https://linkedin.com/in/ahmed-sameer-bb8065257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sameer-bb8065257" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.sameer.9047506" target="blank">
+  <a href="https://linkedin.com/in/farea-al-dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farea-al-dhelaa" height="30" width="40" /></a>
+<a href="https://fb.com/farea.al.dhelaa" target="blank">
 
-<a href="https://www.youtube.com/c/@ah_sm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ah_sm9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@farea_al_dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farea_al_dhelaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +30,8 @@
  <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-homishan&show_icons=true&locale=en&layout=compact" alt="ahmed-homishan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farea-al-dhelaa&show_icons=true&locale=en&layout=compact" alt="farea-al-dhelaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-homishan&show_icons=true&locale=en" alt="ahmed-homishan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farea-al-dhelaa&show_icons=true&locale=en" alt="farea-al-dhelaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-homishan&" alt="ahmed-homishan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farea-al-dhelaa&" alt="farea-al-dhelaa" /></p>
