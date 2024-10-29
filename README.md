@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **faraa717281413@gmail.com @gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact With me:</h3>
 <p align="left">
 
   <a href="https://twitter.com/farea_al_dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farea_al_dhelaa" height="30" width="40" /></a>
