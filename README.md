@@ -1,204 +1,51 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h1 align="center">Hi 👋, I'm Farea AL-Dhelaa</h1>
 
-.header {
-    text-align: center;
-    margin-bottom: 40px;
-}
+<h3 align="center">A passionate Full Stack developer from Yemen</h3>
 
-.header img {
-    width: 100%;
-    max-height: 300px;
-    object-fit: cover;
-    border-radius: 10px;
-    margin-bottom: 20px;
-}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="farea-al-dhelaa" /> </p>
 
-.title {
-    color: #2d333b;
-    font-size: 2.5em;
-    margin: 10px 0;
-}
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  style="width:300px !important; display: inline-block;" data-target="animated-image.originalImage">
 
-.subtitle {
-    color: #484f58;
-    font-size: 1.5em;
-    margin-bottom: 30px;
-}
+- 🌱 I’m currently learning **Node.js, React Native, Django**
 
-.profile-section {
-    display: flex;
-    gap: 40px;
-    margin-bottom: 40px;
-}
+- 💬 Ask me about **Android, Flutter**
 
-.profile-info {
-    flex: 1;
-}
+- 📫 How to reach me **faraa717281413@gmail.com @gmail.com**
 
-.profile-image {
-    flex: 0 0 300px;
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-.profile-image img {
-    width: 100%;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
+  <a href="https://twitter.com/farea_al_dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farea_al_dhelaa" height="30" width="40" /></a>
 
-.info-item {
-    margin: 15px 0;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    color: #484f58;
-}
+  <a href="https://linkedin.com/in/farea-al-dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farea-al-dhelaa" height="30" width="40" /></a>
+  <a href="https://fb.com/faraa717281413@gmail.com " target="blank"></a>
+  <a href="https://www.youtube.com/c/@farea_al_dhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farea_al_dhelaa" height="30" width="40" /></a>
+</p>
 
-.social-links {
-    margin: 30px 0;
-}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> 
+</p>
 
-.social-links a {
-    display: inline-block;
-    margin-right: 15px;
-    transition: transform 0.2s;
-}
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farea-al-dhelaa&show_icons=true&locale=en&layout=compact" alt="farea-al-dhelaa" /></p>
 
-.social-links a:hover {
-    transform: translateY(-3px);
-}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farea-al-dhelaa&show_icons=true&locale=en" alt="farea-al-dhelaa" /></p>
 
-.skills-section {
-    margin: 40px 0;
-}
-
-.skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
-    gap: 20px;
-    padding: 20px 0;
-}
-
-.skill-item {
-    text-align: center;
-    transition: transform 0.2s;
-}
-
-.skill-item:hover {
-    transform: translateY(-5px);
-}
-
-.skill-item img {
-    width: 40px;
-    height: 40px;
-}
-
-.stats-section {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin: 40px 0;
-}
-
-.stats-card {
-    background: white;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-.stats-card img {
-    width: 100%;
-    height: auto;
-}
-
-h3 {
-    color: #2d333b;
-    border-bottom: 2px solid #0366d6;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-}
-
-.view-counter {
-    display: inline-block;
-    padding: 5px 10px;
-    background: #0366d6;
-    color: white;
-    border-radius: 20px;
-    font-size: 0.9em;
-}
-</style>
-</head>
-<body>
-<div class="container">
-    <div class="header">
-        <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead">
-        <h1 class="title">Hi 👋, I'm Farea AL-Dhelaa</h1>
-        <h2 class="subtitle">A passionate Full Stack developer from Yemen</h2>
-        <span class="view-counter">
-            <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
-        </span>
-    </div>
-
-    <div class="profile-section">
-        <div class="profile-info">
-            <div class="info-item">
-                <span>🌱 I'm currently learning:</span>
-                <strong>Node.js, React Native, Django</strong>
-            </div>
-            <div class="info-item">
-                <span>💬 Ask me about:</span>
-                <strong>Android, Flutter</strong>
-            </div>
-            <div class="info-item">
-                <span>📫 How to reach me:</span>
-                <strong>faraa717281413@gmail.com</strong>
-            </div>
-
-            <div class="social-links">
-                <h3>Connect with me:</h3>
-                <a href="https://twitter.com/farea_al_dhelaa" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30">
-                </a>
-                <a href="https://linkedin.com/in/farea-al-dhelaa" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">
-                </a>
-                <a href="https://www.youtube.com/c/@farea_al_dhelaa" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30">
-                </a>
-            </div>
-        </div>
-        <div class="profile-image">
-            <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
-        </div>
-    </div>
-
-    <div class="skills-section">
-        <h3>Languages and Tools:</h3>
-        <div class="skills-grid">
-            <!-- Your existing skills icons here -->
-        </div>
-    </div>
-
-    <div class="stats-section">
-        <div class="stats-card">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farea-al-dhelaa&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-        </div>
-        <div class="stats-card">
-            <img src="https://github-readme-stats.vercel.app/api?username=farea-al-dhelaa&show_icons=true&locale=en" alt="GitHub Stats">
-        </div>
-        <div class="stats-card">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=farea-al-dhelaa" alt="GitHub Streak">
-        </div>
-    </div>
-</div>
-</body>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farea-al-dhelaa&" alt="farea-al-dhelaa" /></p>
+i want design professional
