@@ -48,4 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farea-al-dhelaa&show_icons=true&locale=en" alt="farea-al-dhelaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farea-al-dhelaa&" alt="farea-al-dhelaa" /></p>
-i want design professional
